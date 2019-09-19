@@ -1,6 +1,6 @@
 class Person
   
-  def instance(name, job)
+  def initialized(name, job)
     @name
     @job
   end
