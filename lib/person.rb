@@ -20,11 +20,11 @@ class Person
   # Setters
   
   def name=(new_name)
-    @name
+    @name=new_name
   end
   
   def job=(new_job)
-    @job
+    @job=new_job
   end
   
 end
