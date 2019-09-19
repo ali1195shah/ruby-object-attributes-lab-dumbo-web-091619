@@ -16,7 +16,7 @@ class Person
     @job
   end
   
-  -----------------------
+  # -----------------------
   # Setters
   
   def name=(new_name)
