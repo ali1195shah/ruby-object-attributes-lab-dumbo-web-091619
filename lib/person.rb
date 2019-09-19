@@ -7,6 +7,7 @@ class Person
   
   # -----------------------
   # Getters
+    # - This reads their name and job
   
   def name
     @name
@@ -18,6 +19,7 @@ class Person
   
   # -----------------------
   # Setters
+    # - This changes their name and their job
   
   def name=(new_name)
     @name=new_name
